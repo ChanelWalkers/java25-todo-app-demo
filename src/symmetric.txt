@@ -1,0 +1,3 @@
+boolean isSymmetricNumber(int n){
+	-- process check whether n is symmetric number or not
+}

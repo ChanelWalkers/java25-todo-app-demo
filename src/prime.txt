@@ -1,0 +1,3 @@
+boolean isPrime(int n){
+	-- processing check whether n is prime or not
+}

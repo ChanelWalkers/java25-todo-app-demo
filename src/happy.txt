@@ -1,0 +1,3 @@
+boolean isHappyNumber(int n){
+	-- process check whether n is happy number or not
+}
